@@ -1,0 +1,16 @@
+D:\Module_API\Test1\Test1\bin\Debug\net5.0\Test1.exe
+D:\Module_API\Test1\Test1\bin\Debug\net5.0\Test1.deps.json
+D:\Module_API\Test1\Test1\bin\Debug\net5.0\Test1.runtimeconfig.json
+D:\Module_API\Test1\Test1\bin\Debug\net5.0\Test1.runtimeconfig.dev.json
+D:\Module_API\Test1\Test1\bin\Debug\net5.0\Test1.dll
+D:\Module_API\Test1\Test1\bin\Debug\net5.0\Test1.pdb
+D:\Module_API\Test1\Test1\obj\Debug\net5.0\Test1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Module_API\Test1\Test1\obj\Debug\net5.0\Test1.AssemblyInfoInputs.cache
+D:\Module_API\Test1\Test1\obj\Debug\net5.0\Test1.AssemblyInfo.cs
+D:\Module_API\Test1\Test1\obj\Debug\net5.0\Test1.csproj.CoreCompileInputs.cache
+D:\Module_API\Test1\Test1\obj\Debug\net5.0\Test1.dll
+D:\Module_API\Test1\Test1\obj\Debug\net5.0\Test1.pdb
+D:\Module_API\Test1\Test1\obj\Debug\net5.0\Test1.genruntimeconfig.cache
+D:\Module_API\Test1\Test1\obj\Debug\net5.0\ref\Test1.dll
+D:\Module_API\Test1\Test1\bin\Debug\net5.0\ref\Test1.dll
+D:\Module_API\Test1\Test1\obj\Debug\net5.0\Test1.csprojAssemblyReference.cache
